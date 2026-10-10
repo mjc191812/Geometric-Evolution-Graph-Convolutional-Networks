@@ -1,0 +1,13 @@
+# Recomputable derived graph/flow caches
+/networkx/
+/ricci_flow_pt/
+/ricci_flow_graphs/
+/raw/
+/processed/
+/*.csv
+/*.json
+
+**/processed/
+
+**/*_split_*.npz
+/ogbn_arxiv/split/
